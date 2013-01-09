@@ -1,0 +1,26 @@
+{
+  "name": "nputrc",
+  "version": "0.0.1",
+  "description": "manage nput config",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:st-luke/nputrc.git"
+  },
+  "keywords": [
+    "nput",
+    "osconfig"
+  ],
+  "author": {
+    "name": "Luke Arduini",
+    "email": "luke.arduini@me.com",
+    "url": "http://luke.xxx"
+    },
+  "license": "MIT"
+}
